@@ -7,12 +7,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/arramsnohal-maker/leetcode-qns/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/arramsnohal-maker/leetcode-qns/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/arramsnohal-maker/leetcode-qns/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/arramsnohal-maker/leetcode-qns/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/arramsnohal-maker/leetcode-qns/tree/master/0912-sort-an-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/arramsnohal-maker/leetcode-qns/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/arramsnohal-maker/leetcode-qns/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/arramsnohal-maker/leetcode-qns/tree/master/0347-top-k-frequent-elements) |
 ## String
 |  |
 | ------- |
@@ -23,16 +25,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/arramsnohal-maker/leetcode-qns/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/arramsnohal-maker/leetcode-qns/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/arramsnohal-maker/leetcode-qns/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/arramsnohal-maker/leetcode-qns/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/arramsnohal-maker/leetcode-qns/tree/master/0912-sort-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/arramsnohal-maker/leetcode-qns/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/arramsnohal-maker/leetcode-qns/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/arramsnohal-maker/leetcode-qns/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/arramsnohal-maker/leetcode-qns/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/arramsnohal-maker/leetcode-qns/tree/master/0347-top-k-frequent-elements) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -40,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/arramsnohal-maker/leetcode-qns/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/arramsnohal-maker/leetcode-qns/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
@@ -48,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/arramsnohal-maker/leetcode-qns/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/arramsnohal-maker/leetcode-qns/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
@@ -69,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/arramsnohal-maker/leetcode-qns/tree/master/0075-sort-colors) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/arramsnohal-maker/leetcode-qns/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
