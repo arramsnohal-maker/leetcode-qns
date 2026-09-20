@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/arramsnohal-maker/leetcode-qns/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/arramsnohal-maker/leetcode-qns/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/arramsnohal-maker/leetcode-qns/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/arramsnohal-maker/leetcode-qns/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/arramsnohal-maker/leetcode-qns/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/arramsnohal-maker/leetcode-qns/tree/master/0912-sort-an-array) |
 ## Hash Table
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/arramsnohal-maker/leetcode-qns/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/arramsnohal-maker/leetcode-qns/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/arramsnohal-maker/leetcode-qns/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/arramsnohal-maker/leetcode-qns/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/arramsnohal-maker/leetcode-qns/tree/master/0387-first-unique-character-in-a-string) |
 ## String
@@ -27,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/arramsnohal-maker/leetcode-qns/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/arramsnohal-maker/leetcode-qns/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/arramsnohal-maker/leetcode-qns/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/arramsnohal-maker/leetcode-qns/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/arramsnohal-maker/leetcode-qns/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/arramsnohal-maker/leetcode-qns/tree/master/0912-sort-an-array) |
 ## Divide and Conquer
@@ -39,12 +42,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/arramsnohal-maker/leetcode-qns/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/arramsnohal-maker/leetcode-qns/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/arramsnohal-maker/leetcode-qns/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/arramsnohal-maker/leetcode-qns/tree/master/0387-first-unique-character-in-a-string) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/arramsnohal-maker/leetcode-qns/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/arramsnohal-maker/leetcode-qns/tree/master/0229-majority-element-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
