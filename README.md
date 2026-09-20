@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/arramsnohal-maker/leetcode-qns/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/arramsnohal-maker/leetcode-qns/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/arramsnohal-maker/leetcode-qns/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/arramsnohal-maker/leetcode-qns/tree/master/0169-majority-element) |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/arramsnohal-maker/leetcode-qns/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/arramsnohal-maker/leetcode-qns/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/arramsnohal-maker/leetcode-qns/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/arramsnohal-maker/leetcode-qns/tree/master/0229-majority-element-ii) |
@@ -92,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/arramsnohal-maker/leetcode-qns/tree/master/0387-first-unique-character-in-a-string) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/arramsnohal-maker/leetcode-qns/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
