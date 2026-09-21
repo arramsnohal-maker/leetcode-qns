@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/arramsnohal-maker/leetcode-qns/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/arramsnohal-maker/leetcode-qns/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/arramsnohal-maker/leetcode-qns/tree/master/0075-sort-colors) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/arramsnohal-maker/leetcode-qns/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/arramsnohal-maker/leetcode-qns/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/arramsnohal-maker/leetcode-qns/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/arramsnohal-maker/leetcode-qns/tree/master/0229-majority-element-ii) |
@@ -113,4 +114,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/arramsnohal-maker/leetcode-qns/tree/master/0633-sum-of-square-numbers) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/arramsnohal-maker/leetcode-qns/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/arramsnohal-maker/leetcode-qns/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
