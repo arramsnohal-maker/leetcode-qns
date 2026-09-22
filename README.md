@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/arramsnohal-maker/leetcode-qns/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/arramsnohal-maker/leetcode-qns/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/arramsnohal-maker/leetcode-qns/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/arramsnohal-maker/leetcode-qns/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/arramsnohal-maker/leetcode-qns/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/arramsnohal-maker/leetcode-qns/tree/master/0912-sort-an-array) |
 ## Hash Table
@@ -122,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/arramsnohal-maker/leetcode-qns/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/arramsnohal-maker/leetcode-qns/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
