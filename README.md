@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/arramsnohal-maker/leetcode-qns/tree/master/0075-sort-colors) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/arramsnohal-maker/leetcode-qns/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/arramsnohal-maker/leetcode-qns/tree/master/0128-longest-consecutive-sequence) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/arramsnohal-maker/leetcode-qns/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/arramsnohal-maker/leetcode-qns/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/arramsnohal-maker/leetcode-qns/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/arramsnohal-maker/leetcode-qns/tree/master/0238-product-of-array-except-self) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/arramsnohal-maker/leetcode-qns/tree/master/0075-sort-colors) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/arramsnohal-maker/leetcode-qns/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0633-sum-of-square-numbers](https://github.com/arramsnohal-maker/leetcode-qns/tree/master/0633-sum-of-square-numbers) |
 ## Quicksort
 |  |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/arramsnohal-maker/leetcode-qns/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0633-sum-of-square-numbers](https://github.com/arramsnohal-maker/leetcode-qns/tree/master/0633-sum-of-square-numbers) |
 ## Dynamic Programming
 |  |
