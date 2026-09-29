@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/arramsnohal-maker/leetcode-qns/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/arramsnohal-maker/leetcode-qns/tree/master/0049-group-anagrams) |
+| [0074-search-a-2d-matrix](https://github.com/arramsnohal-maker/leetcode-qns/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/arramsnohal-maker/leetcode-qns/tree/master/0075-sort-colors) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/arramsnohal-maker/leetcode-qns/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/arramsnohal-maker/leetcode-qns/tree/master/0128-longest-consecutive-sequence) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/arramsnohal-maker/leetcode-qns/tree/master/0036-valid-sudoku) |
+| [0074-search-a-2d-matrix](https://github.com/arramsnohal-maker/leetcode-qns/tree/master/0074-search-a-2d-matrix) |
 ## Union-Find
 |  |
 | ------- |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/arramsnohal-maker/leetcode-qns/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/arramsnohal-maker/leetcode-qns/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0633-sum-of-square-numbers](https://github.com/arramsnohal-maker/leetcode-qns/tree/master/0633-sum-of-square-numbers) |
 ## Dynamic Programming
